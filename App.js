@@ -4,6 +4,7 @@ import { Colors } from './components/util/Colors'
 
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
 import MapSelector from './components/Map/MapSelector';
 import { IconButton } from 'react-native-paper';
 import AllPlaces from './screens/AllPlaces';
